@@ -15,11 +15,12 @@ preferred-citation:
   type: article
   authors:
   - family-names: "Pal"
-  given-names: "Debojyoti"
-- family-names: "Reddy"
-  given-names: "Pailla Balakrishna"
-- family-names: "Roy"
-  given-names: "Sudipta" 
+    given-names: "Debojyoti"
+  - family-names: "Reddy"
+    given-names: "Pailla Balakrishna"
+  - family-names: "Roy"
+    given-names: "Sudipta"
+  doi: 10.1016/j.compbiomed.2022.106083
   journal: "Computers in Biology and Medicine"
   month: 11
   start: 106083 # First page number
